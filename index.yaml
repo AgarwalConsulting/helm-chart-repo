@@ -3,7 +3,17 @@ entries:
   spring-greeting:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T21:27:01.598926+05:30"
+    created: "2021-10-26T21:28:53.595272+05:30"
+    description: A Helm chart for Kubernetes for installing spring-greeting
+    digest: 0ad379b728ba7e324a9be0249733591a4714e2e55fcfb48b0220515468e11c8a
+    name: spring-greeting
+    type: application
+    urls:
+    - https://agarwalconsulting.github.io/helm-chart-repo/spring-greeting-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-26T21:28:53.594775+05:30"
     description: A Helm chart for Kubernetes for installing spring-greeting
     digest: df6325f3bc069512e9d9a35b44bb257b3786e8f5b0ac06da695a4c01b6334f3b
     name: spring-greeting
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T21:27:01.598421+05:30"
+    created: "2021-10-26T21:28:53.594391+05:30"
     description: A Helm chart for Kubernetes for installing spring-greeting
     digest: c665925fabc4db62c0c74d5fd15d4c79e6f9e3a1ddff4790f2eeb39f28d6806a
     name: spring-greeting
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://agarwalconsulting.github.io/helm-chart-repo/spring-greeting-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-26T21:27:01.594001+05:30"
+generated: "2021-10-26T21:28:53.59397+05:30"
